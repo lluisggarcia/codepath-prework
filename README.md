@@ -1,14 +1,9 @@
-# codepath-prework
-Codepath Android studio prework
-
 ## NAME_OF_YOUR_APP_HERE
-
+   codepath-prework
 ### App Description
-`TODO://` Add app description
+`TODO://` Codepath Android studio prework
 
-### App Walk-thoughs
-https://giphy.com/clips/pizzapals-meowwolf-convergencestation-pizzapalsplayzone-AG0vilqXSPqcfyMvst
-
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="396" src="https://giphy.com/embed/AG0vilqXSPqcfyMvst/video" width="480"></iframe></div>
 <img src="https://giphy.com/clips/pizzapals-meowwolf-convergencestation-pizzapalsplayzone-AG0vilqXSPqcfyMvst" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
