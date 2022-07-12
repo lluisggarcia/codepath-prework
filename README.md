@@ -6,7 +6,8 @@ Codepath Android studio prework
 ### App Description
 `TODO://` Add app description
 
-### App Walk-though
+### App Walk-thoughs
+https://giphy.com/clips/pizzapals-meowwolf-convergencestation-pizzapalsplayzone-AG0vilqXSPqcfyMvst
 
 <img src="https://giphy.com/clips/pizzapals-meowwolf-convergencestation-pizzapalsplayzone-AG0vilqXSPqcfyMvst" width=200><br>
 
