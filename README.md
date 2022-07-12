@@ -4,7 +4,7 @@
 `TODO://` Codepath Android studio prework
 
 
-<img src="https://giphy.com/clips/pizzapals-meowwolf-convergencestation-pizzapalsplayzone-AG0vilqXSPqcfyMvst" width=200><br>
+![giphy (1)](https://user-images.githubusercontent.com/79775544/178412701-0c20868e-049f-4aab-a409-d23c432bce2e.gif)
 
 
 ### Required User Stories
